@@ -40,8 +40,8 @@
 .login-form .login-switches:after { content: ''; display: table; line-height: 0; clear: both; }
 .login-form .login-switches li { list-style-type: none; float: left; width: 50%; padding: 0 5px; }
 /*btns*/
-.btn-red, .btn-green { background-color: #c33332; border-radius: 3px; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: 0; line-height: normal; text-transform: uppercase; margin: 0 0 0 12px; padding: 10px 15px; }
-.login-form .cs-demo-login .cs-demo-login-lable { color: #c33332; }
+.btn-red, .btn-green { background-color: #1156ED; border-radius: 3px; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: 0; line-height: normal; text-transform: uppercase; margin: 0 0 0 12px; padding: 10px 15px; }
+.login-form .cs-demo-login .cs-demo-login-lable { color: #1156ED; }
 .login-form .cs-demo-login .login-switches .btn-red { color: #fff; margin-left: 0; width: 100%; text-align: center; background-color: #716e6e; }
 .login-form .cs-demo-login .login-switches .btn-green { background: #4cce4a; }
 .login-form .cs-demo-login .login-switches a { position: relative; }
