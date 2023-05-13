@@ -1,0 +1,13 @@
+{% autoescape off %}
+
+Hi {{user.first_name}},
+
+
+{% if is_approved %}
+Congratulations! Your pharmacy has been approved by our admin team. --apothecary
+{% else%}
+we're soory! You are nor eligible for publishing your pharmacuticals on our marketplace. for more details please contact apothecaryofficial27@gmail.com --apothecary
+{% endif%}
+
+
+{% endautoescape %}
